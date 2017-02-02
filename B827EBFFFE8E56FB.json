@@ -1,6 +1,6 @@
 {
   "gateway_conf": {
-    "gateway_ID": "B827EBFFFEF8E56FB",
+    "gateway_ID": "B827EBFFFE8E56FB",
     "servers": [
       {
         "server_address": "lora.plzen.eu",
