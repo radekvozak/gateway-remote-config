@@ -3,13 +3,13 @@
     "gateway_ID": "B827EBFFFE019AF0",
     "servers": [
       {
-        "server_address": "lora.plzen.eu",
+        "server_address": "app.loratech.cz",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
       },
       {
-        "server_address": "app.loratech.cz",
+        "server_address": "lora.plzen.eu",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
@@ -19,11 +19,17 @@
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
-      }
+      },
+      {
+        "server_address": "dev.sfortelem.cz",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      },
     ],
-    "ref_latitude": 49.7034039,
-    "ref_longitude": 13.4195289,
-    "ref_altitude": 440,
+    "ref_latitude": 49.703424,
+    "ref_longitude": 13.419497,
+    "ref_altitude": 365,
     "contact_email": "info@rvtech.cz",
     "description": "RV006-LORA-Plzen-Bezinky"
   }
