@@ -3,13 +3,13 @@
     "gateway_ID": "B827EBFFFEB49D7F",
     "servers": [
       {
-        "server_address": "lora.plzen.eu",
+        "server_address": "app.loratech.cz",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
       },
       {
-        "server_address": "app.loratech.cz",
+        "server_address": "lora.plzen.eu",
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
@@ -19,7 +19,13 @@
         "serv_port_up": 1700,
         "serv_port_down": 1700,
         "serv_enabled": true
-      }
+      },
+      {
+        "server_address": "dev.sfortelem.cz",
+        "serv_port_up": 1700,
+        "serv_port_down": 1700,
+        "serv_enabled": true
+      },
     ],
     "ref_latitude": 49.7325231,
     "ref_longitude": 13.4045997,
